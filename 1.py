@@ -13,4 +13,3 @@ print(e)
 
 print(len(a))
 print(type(a))
-print(type(c))
