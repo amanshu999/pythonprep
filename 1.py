@@ -11,4 +11,4 @@ d = float(input("enter floating point number: "))
 e = d*10
 print(e)
 
-print(len(e))
+print(len(a))
