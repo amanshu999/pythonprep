@@ -12,3 +12,4 @@ e = d*10
 print(e)
 
 print(len(a))
+print(type(a))
