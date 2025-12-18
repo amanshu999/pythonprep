@@ -6,3 +6,6 @@ print(kr)
 
 d = 1
 print(d+kr)
+
+lo = 5
+print(lo+d)
