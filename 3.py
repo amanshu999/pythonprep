@@ -3,3 +3,5 @@ print(a)
 b = 10
 c = a+b
 print(c)
+
+print(a*b)
